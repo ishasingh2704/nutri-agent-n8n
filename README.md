@@ -1,6 +1,6 @@
 
 
-````md
+
 # 🥗 Nutri Agent – Telegram-based AI Nutrition Assistant (n8n)
 
 ## 📌 Overview
@@ -101,8 +101,3 @@ This project demonstrates:
 **Isha Singh**
 CS Undergraduate | AI/ML & DevOps Enthusiast
 
-```
-
-
-Just tell me.
-```
