@@ -1,0 +1,5 @@
+*.mp4
+*.mov
+*.env
+.env
+credentials.json
